@@ -7,6 +7,8 @@ authors:
     affiliation: "Independent Researcher, Vadodara, Gujarat, India"
     orcid: "https://orcid.org/0009-0009-0689-2920"
 repository-code: "https://github.com/indian-aman/drosophila-whole-cns-specificity"
+doi: 10.5281/zenodo.23881805
+version: 1.0.0
 license: MIT
 date-released: "2026-11-02"
 keywords:

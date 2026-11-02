@@ -1,5 +1,6 @@
 # Hierarchy of wiring specificity, parallel descending-neuron screens and dimorphic circuit organization in whole-CNS *Drosophila* connectome simulations
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23881805.svg)](https://doi.org/10.5281/zenodo.23881805)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/indian-aman/drosophila-whole-cns-specificity/blob/main/colab/drosophila_whole_cns_specificity_colab.ipynb)
 [![Manuscript PDF](https://img.shields.io/badge/Manuscript-PDF-b31b1b)](paper/manuscript.pdf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -178,11 +179,13 @@ Released under the [MIT License](LICENSE). Citation metadata are provided in [`C
 
 ```bibtex
 @misc{amandeep2026hierarchy,
-  title  = {Hierarchy of wiring specificity, parallel descending-neuron screens and dimorphic circuit organization in whole-CNS Drosophila connectome simulations},
-  author = {Amandeep},
-  year   = {2026},
-  url    = {https://github.com/indian-aman/drosophila-whole-cns-specificity},
-  note   = {Independent Researcher, Vadodara, Gujarat, India. ORCID: 0009-0009-0689-2920}
+  title     = {Hierarchy of wiring specificity, parallel descending-neuron screens and dimorphic circuit organization in whole-CNS Drosophila connectome simulations},
+  author    = {Amandeep},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23881805},
+  url       = {https://doi.org/10.5281/zenodo.23881805},
+  note      = {Independent Researcher, Vadodara, Gujarat, India. ORCID: 0009-0009-0689-2920}
 }
 ```
 
