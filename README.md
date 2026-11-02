@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)](https://www.python.org/)
 
-**Amandeep** · Independent Researcher, Vadodara, Gujarat, India · [ORCID: 0009-0009-0689-2920](https://orcid.org/0009-0009-0689-2920)
+**Amandeep Bains** · Independent Researcher, Vadodara, Gujarat, India · [ORCID: 0009-0009-0689-2920](https://orcid.org/0009-0009-0689-2920)
 
 [Manuscript (PDF)](paper/manuscript.pdf) · [Markdown](paper/manuscript.md) · [LaTeX](paper/manuscript.tex) · [Figures](figures/) · [Results JSON](results/) · [Colab Notebook](colab/drosophila_whole_cns_specificity_colab.ipynb)
 
@@ -178,9 +178,9 @@ tests/        test_whole_cns_specificity.py                  automated numerical
 Released under the [MIT License](LICENSE). Citation metadata are provided in [`CITATION.cff`](CITATION.cff) and [`.zenodo.json`](.zenodo.json):
 
 ```bibtex
-@misc{amandeep2026hierarchy,
+@misc{bains2026hierarchy,
   title     = {Hierarchy of wiring specificity, parallel descending-neuron screens and dimorphic circuit organization in whole-CNS Drosophila connectome simulations},
-  author    = {Amandeep},
+  author    = {Bains, Amandeep},
   year      = {2026},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.23881805},

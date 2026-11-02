@@ -4,6 +4,7 @@ type: software
 title: "Hierarchy of wiring specificity, parallel descending-neuron screens and dimorphic circuit organization in whole-CNS Drosophila connectome simulations"
 authors:
   - given-names: "Amandeep"
+    family-names: "Bains"
     affiliation: "Independent Researcher, Vadodara, Gujarat, India"
     orcid: "https://orcid.org/0009-0009-0689-2920"
 repository-code: "https://github.com/indian-aman/drosophila-whole-cns-specificity"

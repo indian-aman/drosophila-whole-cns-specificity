@@ -5,7 +5,7 @@
   "description": "GPU-accelerated whole-CNS leaky integrate-and-fire (LIF) simulator, nine-level Maslov-Sneppen null-model hierarchy, K=486 Common-Random-Numbers virtual Split-GAL4 descending-neuron perturbation screen, closed-loop 3D NeuroMechFly v2 steering, and within-connectome fru/dsx double-dissociation suite across MaleCNS v1.0 and Female BANC v888.",
   "creators": [
     {
-      "name": "Amandeep",
+      "name": "Bains, Amandeep",
       "affiliation": "Independent Researcher, Vadodara, Gujarat, India",
       "orcid": "0009-0009-0689-2920"
     }

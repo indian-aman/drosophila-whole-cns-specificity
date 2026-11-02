@@ -1,6 +1,6 @@
 ---
 title: Hierarchy of wiring specificity, parallel descending-neuron screens and dimorphic circuit organization in whole-CNS Drosophila connectome simulations
-author: Amandeep
+author: Amandeep Bains
 affiliation: Independent Researcher, Vadodara, Gujarat, India
 orcid: 0009-0009-0689-2920
 date: November 2026
