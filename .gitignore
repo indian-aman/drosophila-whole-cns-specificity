@@ -1,0 +1,26 @@
+# Compiled connectomes & raw EM downloads
+data/
+*.npz
+*.parquet
+*.feather
+
+# Python bytecode & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+
+# CodeGraph & IDE state
+.codegraph/
+.vscode/
+.idea/
+
+# LaTeX build intermediates
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz

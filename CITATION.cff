@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark suite, please cite it using the metadata below."
+type: software
+title: "Hierarchy of wiring specificity, parallel descending-neuron screens and dimorphic circuit organization in whole-CNS Drosophila connectome simulations"
+authors:
+  - given-names: "Amandeep"
+    affiliation: "Independent Researcher, Vadodara, Gujarat, India"
+    orcid: "https://orcid.org/0009-0009-0689-2920"
+repository-code: "https://github.com/indian-aman/drosophila-whole-cns-specificity"
+license: MIT
+date-released: "2026-11-02"
+keywords:
+  - Drosophila
+  - connectome
+  - MaleCNS
+  - BANC
+  - computational neuroscience
+  - spiking neural networks
+  - NeuroMechFly

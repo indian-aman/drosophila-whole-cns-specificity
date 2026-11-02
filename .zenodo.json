@@ -1,0 +1,33 @@
+{
+  "title": "Hierarchy of wiring specificity, parallel descending-neuron screens and dimorphic circuit organization in whole-CNS Drosophila connectome simulations",
+  "upload_type": "software",
+  "license": "MIT",
+  "description": "GPU-accelerated whole-CNS leaky integrate-and-fire (LIF) simulator, nine-level Maslov-Sneppen null-model hierarchy, K=486 Common-Random-Numbers virtual Split-GAL4 descending-neuron perturbation screen, closed-loop 3D NeuroMechFly v2 steering, and within-connectome fru/dsx double-dissociation suite across MaleCNS v1.0 and Female BANC v888.",
+  "creators": [
+    {
+      "name": "Amandeep",
+      "affiliation": "Independent Researcher, Vadodara, Gujarat, India",
+      "orcid": "0009-0009-0689-2920"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/indian-aman/drosophila-whole-cns-specificity",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "keywords": [
+    "Drosophila",
+    "connectome",
+    "MaleCNS",
+    "BANC",
+    "spiking neural network",
+    "descending neurons",
+    "NeuroMechFly",
+    "computational neuroscience",
+    "CUDA",
+    "Triton"
+  ]
+}
